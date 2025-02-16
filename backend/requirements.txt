@@ -83,7 +83,7 @@ django-resized==1.0.3
     # via -r requirements.in
 django-rest-swagger==2.2.0
     # via -r requirements.in
-django-storages==1.14.4
+django-storages==1.14.5
     # via -r requirements.in
 djangorestframework==3.15.2
     # via
@@ -167,7 +167,7 @@ requests==2.32.3
     # via coreapi
 s3transfer==0.11.2
     # via boto3
-simplejson==3.19.3
+simplejson==3.20.1
     # via django-rest-swagger
 six==1.17.0
     # via
