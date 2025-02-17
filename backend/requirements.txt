@@ -113,7 +113,7 @@ elasticsearch-dsl==8.17.1
     #   django-elasticsearch-dsl-drf
 environ==1.0
     # via -r requirements.in
-flake8==7.1.1
+flake8==7.1.2
     # via -r requirements.in
 idna==3.10
     # via requests
