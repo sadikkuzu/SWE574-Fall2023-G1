@@ -11,9 +11,9 @@ asgiref==3.8.1
     #   django-cors-headers
 beautifulsoup4==4.13.3
     # via -r requirements.in
-boto3==1.36.16
+boto3==1.36.22
     # via -r requirements.in
-botocore==1.36.16
+botocore==1.36.22
     # via
     #   boto3
     #   s3transfer
@@ -33,7 +33,7 @@ coreapi==2.3.3
     #   openapi-codec
 coreschema==0.0.4
     # via coreapi
-cryptography==44.0.0
+cryptography==44.0.1
     # via -r requirements.in
 diff-match-patch==20241021
     # via django-import-export
@@ -83,7 +83,7 @@ django-resized==1.0.3
     # via -r requirements.in
 django-rest-swagger==2.2.0
     # via -r requirements.in
-django-storages==1.14.4
+django-storages==1.14.5
     # via -r requirements.in
 djangorestframework==3.15.2
     # via
@@ -113,7 +113,7 @@ elasticsearch-dsl==8.17.1
     #   django-elasticsearch-dsl-drf
 environ==1.0
     # via -r requirements.in
-flake8==7.1.1
+flake8==7.1.2
     # via -r requirements.in
 idna==3.10
     # via requests
@@ -167,7 +167,7 @@ requests==2.32.3
     # via coreapi
 s3transfer==0.11.2
     # via boto3
-simplejson==3.19.3
+simplejson==3.20.1
     # via django-rest-swagger
 six==1.17.0
     # via
